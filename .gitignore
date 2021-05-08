@@ -1,3 +1,4 @@
 *.mp4
 *.lock
 .vscode
+.DS_Store
